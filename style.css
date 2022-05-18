@@ -1,0 +1,68 @@
+.hdng{
+    font-size: 50px;
+    color: #d64161;
+    font-family: 'Style Script', cursive;
+}
+.sec1
+{
+    height: 550px;
+    width: 50%;
+   background-color: #2d3e50;
+   float: left;
+}
+.sec2
+{
+    height: 550px;
+    width: 50%;
+    float: right;
+   background-color: #d64161;
+}
+.sec3
+{
+    height: 1250px;
+    width: 50%;
+    float: right;
+   background-color: #2d3e50;;
+}
+.sec4
+{
+    height: 1250px;
+    width: 50%;
+    float: left;
+   background-color: #d64161;
+}
+button {
+    margin: 5px 20px 20px 20px;
+    outline: none;
+  }
+  .custom-btn {
+    width: 130px;
+    height: 40px;
+    padding: 10px 25px;
+    border: 2px solid #000;
+    font-family: 'Lato', sans-serif;
+    font-weight: 500;
+    /* background: transparent; */
+    cursor: pointer;
+    transition: all 0.3s ease;
+    position: relative;
+    display: inline-block;
+  }
+  .chap2heading
+  {
+     padding-top: 30px;
+     font-size: 35px;
+     color: white;
+  }
+  
+  /* 1 */
+  /* .btn-1 {
+    transition: all 0.3s ease;
+  }
+  .btn-1:hover {
+     box-shadow:
+     -7px -7px 20px 0px #fff9,
+     -4px -4px 5px 0px #fff9,
+     7px 7px 20px 0px #0002,
+     4px 4px 5px 0px #0001;
+  } */
